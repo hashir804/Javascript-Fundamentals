@@ -88,7 +88,7 @@ Your feedback is highly appreciated! If you have suggestions or want to contribu
 ---
 
 ## Author  
-**Hashir Waheed** – QA Engineer passionate about test automation, JavaScript, and modern testing frameworks.  
+**Muhammad Hashir Waheed** – SQA Engineer passionate about test automation, JavaScript, and modern testing frameworks.  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hashir804) for collaboration and discussions.
 
 ---

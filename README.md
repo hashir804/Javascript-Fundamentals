@@ -1,6 +1,3 @@
-Here’s the **README with proper markdown hashtags** for headings, so it displays correctly when you copy and paste:
-
----
 
 # JavaScript Fundamentals for Test Automation
 
@@ -92,5 +89,3 @@ Your feedback is highly appreciated! If you have suggestions or want to contribu
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hashir804) for collaboration and discussions.
 
 ---
-
-This version uses `#`, `##`, and `###` for different heading levels and is ready for direct copy-pasting into your `README.md`. It will render correctly on GitHub.
